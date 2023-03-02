@@ -1,2 +1,2 @@
-# ting-dog
+# tin-dog
 A site i made using HTML,CSS and bootstrap.
